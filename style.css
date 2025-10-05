@@ -1,0 +1,98 @@
+html, body {
+    background-color: rgb(238, 135, 66);
+    margin: 0;
+    padding: 0%;
+}
+
+header {
+    background-image:url(./assests/Header.jpg);
+    padding: 70px 0;
+    background-size: cover;
+    
+}
+
+.first-child-header {
+   }
+
+
+h1 {
+    color:white;
+    font-family: "Lora", serif;
+    font-weight: lighter;
+    font-size: 70px;
+    /* margin: 20px 0; */
+    /* line-height: 70px; */
+    /* text-align: center; */
+}
+
+p {
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+}
+
+main {
+    padding: 50px 0;
+
+}
+
+.iframe-centrato {
+    text-align: center;
+    /* (questo valore è per spostare il frame verso il basso) */
+    margin-top: 20px;
+}
+
+.main-div {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.first-child {
+    background-color: black;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+.second-child {
+    background-color: black;
+    align-content: center;
+    text-align: center;
+   margin-right: 200px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+
+.third-child {
+    background-color: black;
+    text-align: center;
+    align-content: center;
+    margin-right: 400px;
+    line-height: 20px;
+    margin-bottom: 20px;
+
+}
+
+footer {
+    background-color:  black;
+    color: white;
+    padding: 20px 0;
+  
+}
+
+.main-div-main {
+    background-color: rgb(238, 135, 66);
+    margin: 0;
+    padding: 0%;
+}
+
+.main-div-header {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(238, 135, 66);
+    margin: 0;
+    padding: 0%;
+}
+
